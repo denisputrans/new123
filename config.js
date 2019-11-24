@@ -1,7 +1,7 @@
 var config = {
-    redisOpForDice  : {host:'188.225.73.246',port:'3000',password:'cV6Kxufu',db:3},
-    redisOpForRing  : {host:'188.225.73.246',port:'3000',password:'cV6Kxufu',db:4},
-    redisOpForTower : {host:'188.225.73.246',port:'3000',password:'cV6Kxufu',db:5},
+    redisOpForDice  : {host:'188.225.73.246',port:'3000',password:'',db:3},
+    redisOpForRing  : {host:'188.225.73.246',port:'3000',password:'',db:4},
+    redisOpForTower : {host:'188.225.73.246',port:'3000',password:'',db:5},
     trongridApi : 'https://api.trongrid.io',
     privateKey : '29545718406ABE1361F1832D83CBD3C172ECD7336550AE6AA94D81C8838B44D2',// TB1zCK6zJFHRbdnWqgq3hw1DqWVbNA4fzW //my TV4aSLBugaxGDuctxYLCixeoj6UsBecZav
     PRIVATE_KEY_ACT : '9E54D4DF686FE81E91C3FE3053F7CE15A9B997B901E246FFE8A87825EBCBE408', //TTGysgU75PGBp1JV5c2b6cjf2pc3Qo1V5i //my TXXkdFXBG7dQZVjgFCW9MQSSx9SYTWpVyM
